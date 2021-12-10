@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.block{
+    align-items: center;
+    border: 2px black solid;
+    border-radius: 20px;
+}
